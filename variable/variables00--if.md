@@ -5,7 +5,7 @@ parent: Variable - 変数
 nav_order: 1
 ---
 
-# Varible00:if文 (条件分岐)
+# Varible00 : if文 (条件分岐)
 
 if文はある条件をみたすときだけ命令を行うような時に役立ちます。
 
