@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Variable02 - for文(繰り返し)
+title: Variable01 - for文(繰り返し)
 parent: Variable - 変数
 nav_order: 2
 ---
 
-# Varible02 : for文 (繰り返し)
+# Varible01 : for文 (繰り返し)
 
 for文を使えば任意の命令を好きな回数だけ繰り返すことができます
 
