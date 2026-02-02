@@ -84,4 +84,4 @@ ellipseMode()と言う関数を使うと、異なる引数で円が描けるよ�
 
 ###### デフォルトに戻したい場合は、ellipseMode(CENTER);
 
-![](../images/01_shape/12-rectMode.png)
+![](../images/01_shape/09-ellipseMode.png)
