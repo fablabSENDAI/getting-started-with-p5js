@@ -83,14 +83,14 @@ SVG書き出しを行う為に、いくつか見慣れない行が追加され�
 
 ### 【SVGを書き出すためのチェック項目】
 
-- [ ] p5jsのバージョンを 1.11.11 にしておく
-- [ ] index.htmlにライブラリを追加しておく
-- [ ] プログラム冒頭に、 **p5.disableFriendlyErrors = true;** と書く
-- [ ] setup()に **noLoop()** と書く
-- [ ] draw()の最初に、 **beginRecordSvg(this, "ファイル名");** と書く
-- [ ] ファイル名は、”~.svg”にすること。拡張子大事。
-- [ ] draw()の最後に、 **endRecordSvg();** と書く
-- [ ] SVGとして保存したいグラフィックは、 **beginRecordSvg()** と **endRecordSvg()** の間で描く
+- p5jsのバージョンを 1.11.11 にしておく
+- index.htmlにライブラリを追加しておく
+- プログラム冒頭に、 **p5.disableFriendlyErrors = true;** と書く
+- setup()に **noLoop()** と書く
+- draw()の最初に、 **beginRecordSvg(this, "ファイル名");** と書く
+    - ファイル名は、”~.svg”にすること。拡張子大事。
+- draw()の最後に、 **endRecordSvg();** と書く
+- SVGとして保存したいグラフィックは、 **beginRecordSvg()** と **endRecordSvg()** の間で描く
 
 
 
