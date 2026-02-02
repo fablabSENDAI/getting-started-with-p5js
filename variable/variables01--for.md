@@ -53,7 +53,7 @@ function draw() {
 |用語|演算子|例|意味|
 |---|---|---|---|
 |インクリメント|++|count++;|count = count + 1;|
-|デクリメント|--|count--;|count = count - 1;|
+|デクリメント|--| ``` count--; ``` |count = count - 1;|
 
 
 ## 【多重ループ】
