@@ -25,7 +25,7 @@ nav_order: 11
     - 国内デイリーコーディングの第一人者 takawo氏のアカウント。毎日少しでも積み重ねていく大切さと、自由気ままにプログラミングする楽しさに溢れている。
 
 
-- [**Ash Thorp**]
+- **Ash Thorp**
     - モーショングラフィック、映画中での疑似インターフェイズデザイン棟を手掛けるデザイナー。p5jsの基礎が分かった後に見ると沁みる彼の作品を二つ以下に紹介しておく。
     - [MODULAR](https://www.youtube.com/watch?v=J8sCIG83y5s)
     - [FITC](https://www.youtube.com/watch?v=KzY9N5dPZug)
